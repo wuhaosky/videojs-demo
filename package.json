@@ -14,14 +14,7 @@
     "videojs"
   ],
   "dependencies": {
-    "@dp/base-op-url": "^1.1.5",
-    "@dp/mbase-style": "^1.1.21",
-    "@dp/url-rewrite": "^0.4.0",
-    "@dp/util-login": "^1.0.3",
-    "@dp/util-m-share": "^4.0.0",
-    "@dp/util-m-ua": "^2.0.0",
-    "@gfe/app-common-toast": "^0.1.4",
-    "@dp/geo": "^1.0.0",
+    "video.js": "^6.2.4",
     "vue": "2.2.1"
   },
   "devDependencies": {
